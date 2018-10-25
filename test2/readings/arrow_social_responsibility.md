@@ -8,7 +8,7 @@
 	- Voluntary contracts
 		+ People who buy their goods believe it is worthwhile
 		+ increases overall benefit
-	- Profit = net contributions
+	- Profit = net contributions the firm makes to social good
 	- Competition breeds net positives for consumers
 	- May not go far enough
 ## Case for Social Responsibility
@@ -18,13 +18,14 @@
         + Monopolies are bad
         + distrubtion of income is unequal - effeciency creates income
           disparities
+            - poverty for some, riches for few due to effeciency
     - Points away from altruistic motives
         - Gratification is just as legitimate as selfish motives
         - Pollution or congestion
             + Company pays worker therefore is beneficial transaction
             + no similar mechanism for pollution
             + Cars added make everyone less comfortable
-                - Imposes cost on members of the society
+            + Company imposes cost on members of the society
 + quality effects about which the firms knows more than the buyer
     - Used car
         + defects which seller knows more about than the buyer
@@ -46,3 +47,11 @@
     - Legal liability
     - Ethical codes
         + Medical ethics
+        + prevent exploitation between disparing information gaps
+        + If you didnt trust doctors, things would be bad
++ Queue ethics
+    - one waits in line this time and is protected against someone coming in
+      ahead of them
+    - efficiency would be enhanced by accepted ethical rules
+         + reveal all information
+         + safety standards

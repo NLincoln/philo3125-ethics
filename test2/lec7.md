@@ -5,7 +5,7 @@
     + Convincing people they have a problem they may or may not have to increase
       sales
 + Silly Putty
-    + attempt to create artificial rubbber for military application
+    + attempt to create artificial rubber for military application
 + Bubble rap
     + Wall paper
 

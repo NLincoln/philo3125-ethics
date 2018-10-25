@@ -61,7 +61,7 @@
 
 ## Lying in Business
 + If lying was a rule, business would fall apart whether through general
-  permissability
+  permissibility
 + Carr
     - If falsehoods are expected to be said they are not falsehoods
     - There is a domain where lying is permissible and business falls under that

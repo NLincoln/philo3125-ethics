@@ -52,5 +52,5 @@
       world in different ways
         + If you have children you wouldn't have the same actions as people who
           don't
-    - Obligation to consider alternative opportunities
+    - Obligation to consider alternative opportunitiess
     - duty to take care of your children

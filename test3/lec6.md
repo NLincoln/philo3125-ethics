@@ -1,4 +1,4 @@
-# David - Some Paradoxes of Whistle-Blowing
+# Davis - Some Paradoxes of Whistle-Blowing
 + Modus Podus vs. Modus Ponens
     - If x then y
 + Roger Boisjoly
